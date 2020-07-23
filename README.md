@@ -70,6 +70,8 @@ To view your notebooks, select `Notebooks` in the project `Assets` list. To run 
 
 ![ASL notebook](https://github.com/IBM/ASL-Pytorch/blob/master/images/note.png)
 
+Follow notebook instructions to load data and train the model.  
+
 Cells are how notebooks are structured and are the areas where you write your code. To run a piece of code, click on the cell to select it, then press `SHIFT+ENTER` or press the play button in the toolbar above. Additionally, the Cell dropdown menu has several options to run cells, including running one cell at a time or to run all cells at once.
 
 ### 4. Test the model
