@@ -1,46 +1,7 @@
-> Use this file to gather the content required for the pattern overview. Copy this draft-patten-template.md file, replace with your own content for each of the sections below, and attach your file to the GitHub tracking issue for your pattern.
-
-> For full details on requirements for each section, see "Write a code pattern overview" on w3 Developer: [https://w3.ibm.com/developer/documentation/write-code-pattern-overview/](https://w3.ibm.com/developer/documentation/write-code-pattern-overview/)
-
-# Short title
+### Build an American Sign Language alphabet classifier using pytorch and GPU environments on Watson Studio
 
 
-Build an image classification model.
-
-# Long title
-
-
-Build an American Sign Language alphabet classifier using pytorch and GPU environments on Watson Studio
-
-
-# Author
-
-* Mostafa Abdelaleem <mostafa.abdulaleem@ibm.com>
-
-# URLs
-
-### Github repo
-
-> "Get the code": https://github.com/IBM/ASL-Pytorch
-
-* GitHub URL
-
-
-# Summary
-
-In this notebook we will learn how to classify american sign language alphabet using Pytorch and deep learning networks, We will use a pre-trained model from PyTorch models zoo and we will retrain the last parts of the network on our problem. We will use the python and GPU environment in Watson studio for faster training, Without having to go anywhere else we will be able to download, explore, built, and train our model.
-
-# Technologies
-
-
-* Aritificial intelligence
-* Deep learning
-* Machine learning
-* Python
-* Visual recognition
-* Pytorch
-
-# Description
+# Overview
 
 we will use PyTorch to build and train a deep learning model to classify images to 29 classes (26 ASL alphabet, space, Del, and nothing) which can be used later to help Deaf peope communicate with other and maybe with computers as well. We will use a pre-trained mobile network and we will define our classifier and connect it to network, then train this classifier along with some of the last blocks of the network on our dataset.
 
