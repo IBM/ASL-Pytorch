@@ -86,31 +86,19 @@ run the last model many times to check different samples.
 
 [Notebook with outputs](https://github.com/IBM/ASL-Pytorch/blob/master/ASL_v2.ipynb)  
 
-# Components and services
+# links
 
+* [Pytorch](https://pytorch.org/): learn more about pytorch
+* [Create Watson Studio Notebooks](https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/creating-notebooks.html)
+* [Learn more about GPU environments](https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/gpu-environments.html)
 
-* Watson studio
-* Jupyter Notebook
-* Pytorch
-
-# Runtimes
-
-
-* Python
-* Pytorch
-
-# Related IBM Developer content
+# Learn more
 
 * [Get started with PyTorch ](https://developer.ibm.com/articles/cc-get-started-pytorch/): In this article, you can find an overview of the PyTorch system and learn more about the supported platforms and the benefits of using PyTorch.
 
 * [Build models using Jupyter Notebooks in IBM Watson Studio](https://developer.ibm.com/technologies/artificial-intelligence/tutorials/watson-studio-using-jupyter-notebook/)
  
 
-# Related links
 
-
-* [Pytorch](https://pytorch.org/): learn more about pytorch
-* [Create Watson Studio Notebooks](https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/creating-notebooks.html)
-* [Learn more about GPU environments](https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/gpu-environments.html)
 
 
