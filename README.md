@@ -97,6 +97,7 @@ run the last model many times to check different samples.
 * [Get started with PyTorch ](https://developer.ibm.com/articles/cc-get-started-pytorch/): In this article, you can find an overview of the PyTorch system and learn more about the supported platforms and the benefits of using PyTorch.
 
 * [Build models using Jupyter Notebooks in IBM Watson Studio](https://developer.ibm.com/technologies/artificial-intelligence/tutorials/watson-studio-using-jupyter-notebook/)
+*[Multiclass image classification of yoga postures using Watson Studio and Deep Learning as a Service](https://developer.ibm.com/tutorials/image-preprocessing-for-computer-vision-usecases/)
  
 
 
