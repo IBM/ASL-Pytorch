@@ -60,7 +60,7 @@ From the Watson Studio home page, select `Creat a project`, then select the `Cre
 
 * create a new notebook from watson studio with GPU support.    
     * the notebook should have a GPU support <a href="https://www.youtube.com/watch?v=RNIWtpnNBoo">click here to learn how to create a notebook with GPU support.</a>
-    * Use the From URL option and use this URL: https://github.com/mostafa3m/x-ray/blob/master/covid-xray.ipynb
+    * Use the From URL option and use this URL: https://github.com/IBM/ASL-Pytorch/blob/master/ASL_v2.ipynb
 
 ![NOTEBOOK](https://raw.githubusercontent.com/IBM/ASL-Pytorch/master/images/notebook.gif)
 
