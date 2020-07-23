@@ -62,7 +62,7 @@ Learn more about available environments <a href="https://dataplatform.cloud.ibm.
 
     
 
-<img src="https://raw.githubusercontent.com/IBM/ASL-Pytorch/master/diagram.png" alt="asl" width="80%%" height="80%"/>
+<img src="https://raw.githubusercontent.com/IBM/ASL-Pytorch/master/images/diagram.png" alt="asl" width="80%%" height="80%"/>
 
 1. Log into IBM Watson Studio.
 2. Get your Kaggle API credentials
@@ -74,8 +74,8 @@ Learn more about available environments <a href="https://dataplatform.cloud.ibm.
 1. [Sign up for Watson Studio](#1-sign-up-for-watson-studio)
 2. [Create a new project](#2-create-a-new-project)
 3. [Create the notebook](#3-create-the-notebook)
-4. [Run the notebook](#6-run-the-notebook)
-5. [Test your model](#7-Test-the-model)
+4. [Run the notebook](#4-run-the-notebook)
+5. [Test your model](#5-Test-the-model)
 
 ### 1. Sign up for Watson Studio
 
@@ -84,14 +84,14 @@ We will use Watson studio to run this notebook, Watson studio is available throu
 * To start you must have IBM cloud account, Get your for free <a href="https://cloud.ibm.com/registration">Here.</a>   
 * From the catalog create a <a href="https://cloud.ibm.com/catalog/services/watson-studio">watson studio</a> with standard plan or more and make sure the region is dallas to enable GPU environment.  
 
-CREATE GIF  
+![CREATE WS](https://raw.githubusercontent.com/IBM/ASL-Pytorch/master/images/create.gif)  
 
 ### 2. Create a new project
 
 
 From the Watson Studio home page, select `Creat a project`, then select the `Create an empty project` and choose a name for your project then press create .
 
-CREATE GIF  
+![CREATE Project](https://raw.githubusercontent.com/IBM/ASL-Pytorch/master/images/project.gif)  
 
 * create a watson studio project <a href="https://www.youtube.com/watch?v=-CUi8GezG1I">see tutorial here.</a>  
 
@@ -99,15 +99,17 @@ CREATE GIF
 
 * create a new notebook from watson studio with GPU support.    
     * the notebook should have a GPU support <a href="https://www.youtube.com/watch?v=RNIWtpnNBoo">click here to learn how to create a notebook with GPU support.</a>
-    * Use the From URL option and use this URL: https://github.com/mostafa3m/x-ray/blob/master/covid-xray.ipynb
+    * Use the From URL option and use this URL: https://github.com/IBM/ASL-Pytorch/blob/master/ASL_v2.ipynb
 
-GIF NOTEBOOK
+![NOTEBOOK](https://raw.githubusercontent.com/IBM/ASL-Pytorch/master/images/notebook.gif)
 
 ### 4. Run the notebook 
 
 To view your notebooks, select `Notebooks` in the project `Assets` list. To run a notebook, simply click on the `edit` icon listed in the row associated with the notebook in the `Notebooks` list.
 
-pic note
+![ASL notebook](https://github.com/IBM/ASL-Pytorch/blob/master/images/note.png)
+
+Follow notebook instructions to load data and train the model.  
 
 Cells are how notebooks are structured and are the areas where you write your code. To run a piece of code, click on the cell to select it, then press `SHIFT+ENTER` or press the play button in the toolbar above. Additionally, the Cell dropdown menu has several options to run cells, including running one cell at a time or to run all cells at once.
 
@@ -116,12 +118,12 @@ Cells are how notebooks are structured and are the areas where you write your co
 The last two cells in the notebook is where we test our trained model.
 run the last model many times to check different samples.
 
-Result image
+![Result](https://github.com/IBM/ASL-Pytorch/blob/master/images/result.png)
 
 
 ### check notebook result 
 
-link  
+[Notebook with outputs](https://github.com/IBM/ASL-Pytorch/blob/master/ASL_v2.ipynb)  
 
 # Components and services
 
