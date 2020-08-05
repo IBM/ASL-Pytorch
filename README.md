@@ -88,7 +88,7 @@ run the last model many times to check different samples.
 
 # links
 
-* [Pytorch](https://pytorch.org/): learn more about pytorch
+* learn more about [Pytorch](https://pytorch.org/)  
 * [Create Watson Studio Notebooks](https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/creating-notebooks.html)
 * [Learn more about GPU environments](https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/gpu-environments.html)
 
