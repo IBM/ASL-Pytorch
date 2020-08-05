@@ -98,7 +98,7 @@ run the last model many times to check different samples.
 
 * [Build models using Jupyter Notebooks in IBM Watson Studio](https://developer.ibm.com/technologies/artificial-intelligence/tutorials/watson-studio-using-jupyter-notebook/)
   
-*[Multiclass image classification of yoga postures using Watson Studio and Deep Learning as a Service](https://developer.ibm.com/tutorials/image-preprocessing-for-computer-vision-usecases/)
+* [Multiclass image classification of yoga postures using Watson Studio and Deep Learning as a Service](https://developer.ibm.com/tutorials/image-preprocessing-for-computer-vision-usecases/)
  
 
 
