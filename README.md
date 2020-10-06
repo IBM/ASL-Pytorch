@@ -44,6 +44,7 @@ We will use Watson studio to run this notebook, Watson studio is available throu
 
 * To start you must have IBM cloud account, Get your for free <a href="https://cloud.ibm.com/registration">Here.</a>   
 * From the catalog create a <a href="https://cloud.ibm.com/catalog/services/watson-studio">watson studio</a> with standard plan or more and make sure the region is dallas to enable GPU environment.  
+* Alternatively, you can use the ```ASL_PyTorch-CPU``` Notebook if you are a Watson Studio Lite Plan user
 
 ![CREATE WS](https://raw.githubusercontent.com/IBM/ASL-Pytorch/master/images/create.gif)  
 
