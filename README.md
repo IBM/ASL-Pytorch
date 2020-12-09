@@ -61,9 +61,9 @@ From the Watson Studio home page, select `Creat a project`, then select the `Cre
 
 * create a new notebook from watson studio with GPU support.    
     * the notebook should have a GPU support <a href="https://www.youtube.com/watch?v=RNIWtpnNBoo">click here to learn how to create a notebook with GPU support.</a>
-    * Use the From URL option and 
-    use this URL for GPU supported notebook: https://github.com/IBM/ASL-Pytorch/blob/master/ASL_v2-GPU.ipynb
-    or use this URL for CPU supported notebook(LITE) : https://github.com/IBM/ASL-Pytorch/blob/master/ASL_PyTorch-CPU.ipynb
+    * Use the From URL option and    
+    use this URL for GPU supported notebook: https://github.com/IBM/ASL-Pytorch/blob/master/ASL_v2-GPU.ipynb.   
+    or use this URL for CPU notebook(LITE) : https://github.com/IBM/ASL-Pytorch/blob/master/ASL_PyTorch-CPU.ipynb.    
 
 ![NOTEBOOK](https://raw.githubusercontent.com/IBM/ASL-Pytorch/master/images/notebook.gif)
 
